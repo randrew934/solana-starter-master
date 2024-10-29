@@ -7,8 +7,16 @@ pub mod anchor_vault_q424 {
     use super::*;
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
-        msg!("Greetings from: {:?}", ctx.program_id);
+        ctx.accounts.initialize(&ctx.bumps)?;
         Ok(())
+    }
+
+    pub fn deposit(ctx: Context<Payment>, amount: u64) -> Result<()> {
+        ctx.accounts.deposit(amount)
+    }
+
+    pub fn withdraw(ctx: Context<Payment>, amount: u64) -> Result<()> {
+        ctx.accounts.withdraw(amount)
     }
 }
 
@@ -19,7 +27,7 @@ pub struct Initialize<'info> {
     #[account(
         init,
         payer = user,
-        space = VaultState::INIT_SPACE,
+        space = 8 + VaultState::INIT_SPACE,
         seeds = [b"state", user.key().as_ref()],
         bump
     )]
