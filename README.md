@@ -1,6 +1,6 @@
 # Official Repository for Ral Andrew's projects in the Turbine3 Q4 2024 Builder's Program
 
- <h2>WHO IS RAL ANDREW?</h2>
+<h2>WHO IS RAL ANDREW?</h2>
 
 👋 Hi, I’m a Software Engineer with over seven years of working experience in Tech and four years experience building in Web3.
 
@@ -19,3 +19,13 @@
 
 📰 I am also on Medium. https://medium.com/@randrew934
 
+</br>
+
+
+<h2>Capstone Project: SOL BET ANYTHING </h2>
+
+#### Your Game. Your Rules
+
+Bet anything from Sports games to Event forecasts to Token Predictions to X(Twitter) Banters. All you need is Solana.
+
+**Program ID:** BtYYc5eyu3Eg1WPsJTE3mh1yXFeknwH4xyqhKL8qRUzW
