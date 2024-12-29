@@ -21,6 +21,10 @@
 
 </br>
 
+<h2>Projects Present in this Repository </h2>
+
+<h6>SOL BET ANYTHING</h6>
+
 
 <h2>Capstone Project: SOL BET ANYTHING </h2>
 
