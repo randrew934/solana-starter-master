@@ -23,7 +23,7 @@
 
 <h2>Projects Present in this Repository </h2>
 
-<h5>SOL BET ANYTHING</h5>
+<h5>SOL BET ANYTHING(Capstone Project)</h5>
 <h5>NFT Staking</h5>
 <h5>AMM(Automated Market Maker)</h5>
 <h5>Anchor Escrow</h5>
