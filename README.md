@@ -23,14 +23,14 @@
 
 <h2>Projects Present in this Repository </h2>
 
-<h6>SOL BET ANYTHING</h6>
-<h6>NFT Staking</h6>
-<h6>AMM(Automated Market Maker)</h6>
-<h6>Anchor Escrow</h6>
-<h6>Anchor Marketplace</h6>
-<h6>Anchor Vault</h6>
-<h6>Turbin3 Induction Project(Rust)</h6>
-<h6>Turbin3 Induction Project (Typescript)</h6>
+<h5>SOL BET ANYTHING</h5>
+<h5>NFT Staking</h5>
+<h5>AMM(Automated Market Maker)</h5>
+<h5>Anchor Escrow</h5>
+<h5>Anchor Marketplace</h5>
+<h5>Anchor Vault</h5>
+<h5>Turbin3 Induction Project(Rust)</h5>
+<h5>Turbin3 Induction Project (Typescript)</h5>
 
 
 
