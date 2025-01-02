@@ -7,7 +7,7 @@
 🧧 Over the years, I have built numerous projects from Web Apps to Mobile Apps to APIs using HTML, XML, CSS, SCSS, Javascript, Angular, React, PHP, Laravel, Java, 
    Spring Boot, C#, Asp.Net, Android Studio, Ionic with Angular, MySql, SqlLite, Microsoft SQL Server, Postgres Sql.
 
- 🤵  But at the moment, I am a Blockchain Developer across several chains and counting.
+🤵  But at the moment, I am a Blockchain Developer across several chains and counting.
    
 👀 I have built a deeper insight into Solidity, EVM and the various ERC standards, Gas Optimization, Cryptography, Blockchains(Matic, Ethereum, Base and Binance Smart Chain), Golang, Hardhat, Truffle and IPFS. 
     Working on several projects ranging from NFTs to Auditing to Staking protocols.
