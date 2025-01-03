@@ -12,7 +12,7 @@
 👀 I have built a deeper insight into Solidity, EVM and the various ERC standards, Gas Optimization, Cryptography, Blockchains(Matic, Ethereum, Base and Binance Smart Chain), Golang, Hardhat, Truffle and IPFS. 
     Working on several projects ranging from NFTs to Auditing to Staking protocols.
 
-⏱ I have also done some work on Solana Development with Token Creation, NFT Staking, AMM, and Escrow Accounts, and Prediction Markets. 
+⏱ I have also done some work on Solana Development with Token Creation, NFT Staking, AMM, Escrow Accounts, and Prediction Markets. 
 
 🫱🏾‍🫲🏾 I did a bit of collaborative work on a Stellar Project too.
 
