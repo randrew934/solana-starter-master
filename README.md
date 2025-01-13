@@ -36,9 +36,9 @@
 <h5>Turbin3 Induction Project(Rust)</h5>
 <h5>Turbin3 Induction Project (Typescript)</h5>
 
+</BR>
 
-
-<h2>Capstone Project: SOL BET ANYTHING </h2>
+<h2>CAPSTONE PROJECT: SOL BET ANYTHING </h2>
 
 #### Your Game. Your Rules
 
