@@ -25,7 +25,7 @@
 
 </br>
 
-<h2>Projects Present in this Repository </h2>
+<h2>PROJECTS PRESENT IN THIS REPOSITORY </h2>
 
 <h5>SOL BET ANYTHING(Capstone Project)</h5>
 <h5>NFT Staking</h5>
