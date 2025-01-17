@@ -34,7 +34,7 @@
 <h5>Anchor Marketplace</h5>
 <h5>Anchor Vault</h5>
 <h5>Turbin3 Induction Project(Rust)</h5>
-<h5>Turbin3 Induction Project (Typescript)</h5>
+<h5>Turbin3 Induction Project(Typescript)</h5>
 
 </BR>
 
