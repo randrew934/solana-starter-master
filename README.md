@@ -1,6 +1,6 @@
 # Official Repository for Ral Andrew's projects in the Turbine3 Q4 2024 Builder's Program
 
- <h2>WHO IS RAL ANDREW?</h2>
+<h2>WHO IS RAL ANDREW?</h2>
 
 👋 Hi, I’m a Software Engineer with over seven years of working experience in Tech and four years of experience building across several chains in Web3 such as Ethereum, Polygon, Binance Smart Chain, Stellar and Solana.
 
